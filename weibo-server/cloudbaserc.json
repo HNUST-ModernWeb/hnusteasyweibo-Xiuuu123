@@ -1,0 +1,6 @@
+{
+  "envId": "ai-assistant-2026-3ekcer083f8d0b",
+  "cloudrun": {
+    "name": "weibo-server"
+  }
+}
